@@ -1,3 +1,4 @@
+
 # Prerequisites
 *.d
 
@@ -30,3 +31,12 @@
 *.exe
 *.out
 *.app
+
+/build
+*.hex
+*.o
+# *.mp4
+*.avi
+charlie-chaplin.mp4
+
+/.vscode
